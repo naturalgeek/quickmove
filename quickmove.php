@@ -2,7 +2,7 @@
 /**
  * This doesn't do anything.
  */
-class rcsample extends rcube_plugin
+class quickmove extends rcube_plugin
 {
     public function init()
     {

@@ -1,7 +1,7 @@
 {
-    "name": "roundcube/rcsample",
+    "name": "naturalgeek/quickmove",
     "license": "BSD-3-Clause",
-    "description": "This is an example plugin to demo how the integration works",
+    "description": "Move mails with one click",
     "type": "roundcube-plugin",
     "authors": [
         {
@@ -12,6 +12,11 @@
             "name": "Thomas Bruederli",
             "email": "thomas@roundcube.net"
         }
+        {
+            "name": "Marco Meile",
+            "email": "silicium@natural-geek.org"
+        }
+
     ],
     "repositories": [
         {
